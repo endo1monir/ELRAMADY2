@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ELRAMADY</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_worker">Worker</string>
+    <string name="title_activity_show_worker">ShowWorker</string>
+    <string name="title_activity_show_trader">ShowTrader</string>
+</resources>
